@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0798f1a8-6d35-412c-80e3-dc45023fc3ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WA8XMPRU8mJlWXy0h1RSuNbBoG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Raumverwaltung">
+    <configuration name="Büro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Büro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Raum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Raum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Raumverwaltung" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Raumverwaltung.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Seminarraum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminarraum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Raumverwaltung" />
+        <item itemvalue="Python.Seminarraum" />
+        <item itemvalue="Python.Büro" />
+        <item itemvalue="Python.Raum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0798f1a8-6d35-412c-80e3-dc45023fc3ac" name="Default Changelist" comment="" />
+      <created>1578581077107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578581077107</updated>
+      <workItem from="1578581084951" duration="11760000" />
+      <workItem from="1578947361484" duration="9398000" />
+      <workItem from="1579079611683" duration="13497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom" timestamp="1579095986041">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom/0.27.1920.1002@0.27.1920.1002" timestamp="1579040787316" />
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1002@1920.0.1920.1080" timestamp="1579095986041" />
+    <state width="1874" height="262" key="GridCell.Tab.0.center" timestamp="1579095986041">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="262" key="GridCell.Tab.0.center/0.27.1920.1002@0.27.1920.1002" timestamp="1579040787315" />
+    <state width="1874" height="262" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1002@1920.0.1920.1080" timestamp="1579095986041" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left" timestamp="1579095986041">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="262" key="GridCell.Tab.0.left/0.27.1920.1002@0.27.1920.1002" timestamp="1579040787314" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1002@1920.0.1920.1080" timestamp="1579095986041" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right" timestamp="1579095986041">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="262" key="GridCell.Tab.0.right/0.27.1920.1002@0.27.1920.1002" timestamp="1579040787316" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1002@1920.0.1920.1080" timestamp="1579095986041" />
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1578582424962">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom/0.27.1920.1002@0.27.1920.1002" timestamp="1578582424962" />
+    <state width="1874" height="323" key="GridCell.Tab.1.center" timestamp="1578582424961">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.center/0.27.1920.1002@0.27.1920.1002" timestamp="1578582424961" />
+    <state width="1874" height="323" key="GridCell.Tab.1.left" timestamp="1578582424961">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.left/0.27.1920.1002@0.27.1920.1002" timestamp="1578582424961" />
+    <state width="1874" height="323" key="GridCell.Tab.1.right" timestamp="1578582424962">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.right/0.27.1920.1002@0.27.1920.1002" timestamp="1578582424962" />
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1579079645295">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog/0.27.1920.1002@0.27.1920.1002" timestamp="1578947388679" />
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1002@0.27.1920.1002" timestamp="1579079645295" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_OOP$Büro.coverage" NAME="Büro Coverage Results" MODIFIED="1578948731568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP$Raum.coverage" NAME="Raum Coverage Results" MODIFIED="1578948463619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP$Seminarraum.coverage" NAME="Seminarraum Coverage Results" MODIFIED="1578948737114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP$Raumverwaltung.coverage" NAME="Raumverwaltung Coverage Results" MODIFIED="1579095986028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
